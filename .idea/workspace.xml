@@ -5,135 +5,12 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0a76a40-fec3-465c-ac67-4db19d90d277" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/generated/source/buildConfig/release/com/sothree/slidinguppanel/library/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/generated/source/r/release/android/support/v7/recyclerview/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/generated/source/r/release/com/sothree/slidinguppanel/library/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/blame/res/release/multi/values.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/blame/res/release/single/drawable.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/bundles/debug/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/bundles/release/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/bundles/release/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/bundles/release/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/bundles/release/res/drawable/above_shadow.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/bundles/release/res/drawable/below_shadow.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/bundles/release/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/android/support/v7/recyclerview/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/android/support/v7/recyclerview/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/android/support/v7/recyclerview/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/android/support/v7/recyclerview/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/android/support/v7/recyclerview/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/com/sothree/slidinguppanel/library/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/com/sothree/slidinguppanel/library/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/com/sothree/slidinguppanel/library/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/com/sothree/slidinguppanel/library/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/com/sothree/slidinguppanel/library/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/com/sothree/slidinguppanel/library/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/com/sothree/slidinguppanel/library/test/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/com/sothree/slidinguppanel/library/test/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/com/sothree/slidinguppanel/library/test/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/com/sothree/slidinguppanel/library/test/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/com/sothree/slidinguppanel/library/test/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/com/sothree/slidinguppanel/library/test/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/androidTest/debug/com/sothree/slidinguppanel/library/test/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/android/support/v7/recyclerview/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/android/support/v7/recyclerview/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/android/support/v7/recyclerview/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/android/support/v7/recyclerview/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/ScrollableViewHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/SlidingUpPanelLayout$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/SlidingUpPanelLayout$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/SlidingUpPanelLayout$DragHelperCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/SlidingUpPanelLayout$LayoutParams.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/SlidingUpPanelLayout$PanelSlideListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/SlidingUpPanelLayout$PanelState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/SlidingUpPanelLayout$SimplePanelSlideListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/SlidingUpPanelLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/ViewDragHelper$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/ViewDragHelper$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/ViewDragHelper$Callback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/ViewDragHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/android/support/v7/recyclerview/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/android/support/v7/recyclerview/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/android/support/v7/recyclerview/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/android/support/v7/recyclerview/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/android/support/v7/recyclerview/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/ScrollableViewHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/SlidingUpPanelLayout$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/SlidingUpPanelLayout$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/SlidingUpPanelLayout$DragHelperCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/SlidingUpPanelLayout$LayoutParams.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/SlidingUpPanelLayout$PanelSlideListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/SlidingUpPanelLayout$PanelState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/SlidingUpPanelLayout$SimplePanelSlideListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/SlidingUpPanelLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/ViewDragHelper$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/ViewDragHelper$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/ViewDragHelper$Callback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/ViewDragHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/library/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/library/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/library/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/library/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/library/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/library/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/classes/release/com/sothree/slidinguppanel/library/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/3.3.1/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/3.3.1/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/3.3.1/aapt/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/3.3.1/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/3.3.1/res/drawable/above_shadow.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/3.3.1/res/drawable/below_shadow.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/3.3.1/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental-safeguard/androidTest/debug/tag.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental-safeguard/debug/tag.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental-safeguard/release/tag.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental/compileReleaseAidl/dependency.store" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental/mergeReleaseShaders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental/packageReleaseResources/merged.dir/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental/packageReleaseResources/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/manifests/aapt/release/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/res/merged/release/drawable/above_shadow.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/res/merged/release/drawable/below_shadow.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/res/merged/release/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/typedefs.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/outputs/aar/PullUpMenu-release.aar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/outputs/aar/PullUpMenu-debug.aar" afterPath="$PROJECT_DIR$/Libraries/PullUpMenu/build/outputs/aar/PullUpMenu-debug.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-23.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-23.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="a0a76a40-fec3-465c-ac67-4db19d90d277" name="Default" comment="Added item details activity">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/blame/res/androidTest/debug/multi/values.json" afterPath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/blame/res/androidTest/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/blame/res/androidTest/debug/single/drawable.json" afterPath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/blame/res/androidTest/debug/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/blame/res/debug/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/Libraries/PullUpMenu/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
     </list>
     <ignored path="CnG.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -185,8 +62,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -4281,6 +4158,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_shop_details.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_item_details.xml" />
       </list>
     </option>
   </component>
@@ -4655,7 +4533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1487237019590</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added item details activity">
+      <created>1487264949145</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1487264949145</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -4664,8 +4549,8 @@
     <layout>
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -4680,7 +4565,7 @@
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -4781,8 +4666,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
           <folding />
         </state>
       </provider>
