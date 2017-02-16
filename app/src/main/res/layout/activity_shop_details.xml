@@ -126,7 +126,8 @@
             android:id="@+id/slide_panel_icon"
             android:layout_width="match_parent"
             android:layout_height="40px"
-            android:src="@android:drawable/arrow_up_float"/>               
+            android:src="@android:drawable/arrow_up_float"
+            android:background="@color/colorAccent"/>
         <TextView
             android:id="@+id/title_offer"
             android:layout_width="match_parent"
