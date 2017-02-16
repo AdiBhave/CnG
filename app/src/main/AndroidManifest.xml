@@ -19,10 +19,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".ShopListActivity" />
-        <activity android:name=".ShopDetailsActivity"
-            android:theme="@style/AppTheme.NoActionBar">
-
-        </activity>
+        <activity
+            android:name=".ShopDetailsActivity"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".ItemDetailsActivity"></activity>
     </application>
 
 </manifest>
