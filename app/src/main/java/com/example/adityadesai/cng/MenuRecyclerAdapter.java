@@ -38,7 +38,8 @@ public class MenuRecyclerAdapter extends RecyclerView.Adapter<MenuRecyclerAdapte
 
         @Override
         public void onClick(View v) {
-            // Yet to implement
+            Intent i=new Intent(v.getContext(), ItemDetailsActivity.class);
+            v.getContext().startActivity(i);
         }
 
         public void bindIndustry(MenuItem menuItem) {

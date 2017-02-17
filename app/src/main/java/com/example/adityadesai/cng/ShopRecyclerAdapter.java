@@ -44,8 +44,7 @@ public class ShopRecyclerAdapter extends RecyclerView.Adapter<ShopRecyclerAdapte
         @Override
         public void onClick(View v) {
             int position  =   getAdapterPosition();
-            TextView nameTextView=(TextView)v.findViewById(R.id.shop_name);
-            name=nameTextView.getText().toString();
+            name=mItemName.getText().toString();
             Shop shop=getShopbyName(name);
             if(shop!=null){
                 address=shop.getShopAddress();

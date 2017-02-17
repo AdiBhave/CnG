@@ -20,6 +20,7 @@ import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -50,7 +51,6 @@ public class ShopDetailsActivity extends AppCompatActivity {
     private ListView mListView;
     int isFavourite=0;
 
-    @TargetApi(Build.VERSION_CODES.LOLLIPOP)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -119,14 +119,17 @@ public class ShopDetailsActivity extends AppCompatActivity {
             @Override
             public void onPanelSlide(View panel, float slideOffset) {
                 TextView title=(TextView)panel.findViewById(R.id.title_offer);
+                ImageView icon=(ImageView)panel.findViewById(R.id.slide_panel_icon);
                 View decorView = getWindow().getDecorView();
                 if(slideOffset==1){
                     decorView.setSystemUiVisibility(View.SYSTEM_UI_FLAG_FULLSCREEN);
                     title.setText("Slide down to close!");
+                    icon.setImageResource(android.R.drawable.arrow_down_float);
                 }
                 else{
                     decorView.setSystemUiVisibility(View.SYSTEM_UI_FLAG_IMMERSIVE);
                     title.setText("Slide up to view offers!");
+                    icon.setImageResource(android.R.drawable.arrow_up_float);
                 }
             }
             @Override

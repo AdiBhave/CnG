@@ -22,3 +22,5 @@ app/app.iml
 *.jar
 
 *.aar
+
+.idea/workspace.xml
