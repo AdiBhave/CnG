@@ -1,12 +1,9 @@
-package com.example.adityadesai.cng;
+package com.example.adityadesai.cng.Activities;
 
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
-import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
@@ -16,7 +13,10 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import static android.R.attr.fragment;
+import com.example.adityadesai.cng.NavDrawerFragments.FeedbackPageFragment;
+import com.example.adityadesai.cng.NavDrawerFragments.HomePageFragment;
+import com.example.adityadesai.cng.NavDrawerFragments.OffersPageFragment;
+import com.example.adityadesai.cng.R;
 
 public class  MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -26,18 +26,17 @@ public class  MainActivity extends AppCompatActivity
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
 
         // Transition
         overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
 
-        setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
         // Setting default start-up fragment to home page
         FragmentTransaction transaction=getSupportFragmentManager().beginTransaction();
         transaction.replace(R.id.mainFrame,new HomePageFragment());
-        //transaction.addToBackStack(null);
         transaction.commit();
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

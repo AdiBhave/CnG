@@ -1,4 +1,4 @@
-package com.example.adityadesai.cng;
+package com.example.adityadesai.cng.Objects;
 
 /**
  * Created by adityadesai on 11/02/17.
@@ -9,7 +9,7 @@ public class Industry {
     private String industryName;
     private int industryId;
 
-    Industry(String name,int id){
+    public Industry(String name, int id){
         industryName=name;
         industryId=id;
     }

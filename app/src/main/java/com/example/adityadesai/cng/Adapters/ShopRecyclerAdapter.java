@@ -1,7 +1,5 @@
-package com.example.adityadesai.cng;
+package com.example.adityadesai.cng.Adapters;
 
-import android.app.Activity;
-import android.app.ListActivity;
 import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -9,11 +7,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import org.w3c.dom.Text;
+import com.example.adityadesai.cng.R;
+import com.example.adityadesai.cng.Objects.Shop;
+import com.example.adityadesai.cng.Activities.ShopDetailsActivity;
 
 import java.util.ArrayList;
-
-import static android.R.attr.name;
 
 /**
  * Created by adityadesai on 13/02/17.

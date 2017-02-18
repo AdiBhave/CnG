@@ -1,20 +1,17 @@
-package com.example.adityadesai.cng;
+package com.example.adityadesai.cng.Adapters;
 
 import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.LayoutInflater;
-import android.view.Menu;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
+
+import com.example.adityadesai.cng.Activities.ItemDetailsActivity;
+import com.example.adityadesai.cng.Objects.MenuItem;
+import com.example.adityadesai.cng.R;
 
 import java.util.ArrayList;
-
-import static android.R.attr.data;
-import static android.R.attr.targetActivity;
 
 /**
  * Created by adityadesai on 11/02/17.

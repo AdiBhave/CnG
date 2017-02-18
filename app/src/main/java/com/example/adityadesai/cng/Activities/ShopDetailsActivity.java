@@ -1,15 +1,10 @@
-package com.example.adityadesai.cng;
+package com.example.adityadesai.cng.Activities;
 
-import android.annotation.TargetApi;
-import android.app.ActionBar;
-import android.app.Activity;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.net.Uri;
-import android.os.Build;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v4.view.ViewPager;
-import android.support.v4.widget.SlidingPaneLayout;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -17,22 +12,20 @@ import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
-import android.view.Window;
-import android.view.WindowManager;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
-import android.widget.Toast;
 
+import com.example.adityadesai.cng.Adapters.CustomPagerAdapter;
+import com.example.adityadesai.cng.Adapters.MenuRecyclerAdapter;
+import com.example.adityadesai.cng.Objects.MenuItem;
+import com.example.adityadesai.cng.R;
 import com.sothree.slidinguppanel.SlidingUpPanelLayout;
 
 import java.util.ArrayList;
 
 import me.relex.circleindicator.CircleIndicator;
-
-import static android.icu.lang.UCharacter.GraphemeClusterBreak.T;
-import static com.example.adityadesai.cng.R.id.toolbar;
 
 public class ShopDetailsActivity extends AppCompatActivity {
 

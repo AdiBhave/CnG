@@ -1,14 +1,15 @@
-package com.example.adityadesai.cng;
+package com.example.adityadesai.cng.Activities;
 
-import android.app.ActionBar;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.MenuItem;
-import android.widget.TextView;
+
+import com.example.adityadesai.cng.Adapters.ShopRecyclerAdapter;
+import com.example.adityadesai.cng.Objects.Shop;
+import com.example.adityadesai.cng.R;
 
 import java.util.ArrayList;
 

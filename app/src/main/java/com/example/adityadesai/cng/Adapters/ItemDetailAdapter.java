@@ -1,20 +1,17 @@
-package com.example.adityadesai.cng;
+package com.example.adityadesai.cng.Adapters;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
-import android.support.v4.content.ContextCompat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
-import android.widget.ImageView;
 import android.widget.TextView;
 
-import org.w3c.dom.Text;
+import com.example.adityadesai.cng.Objects.ItemDetail;
+import com.example.adityadesai.cng.R;
 
 import java.util.ArrayList;
-
-import static android.R.attr.resource;
 
 /**
  * Created by adityadesai on 17/02/17.

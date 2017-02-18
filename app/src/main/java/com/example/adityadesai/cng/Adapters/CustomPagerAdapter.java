@@ -1,4 +1,4 @@
-package com.example.adityadesai.cng;
+package com.example.adityadesai.cng.Adapters;
 
 import android.content.Context;
 import android.support.v4.view.PagerAdapter;
@@ -8,11 +8,13 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
+import com.example.adityadesai.cng.R;
+
 /**
  * Created by adityadesai on 13/02/17.
  */
 
-class CustomPagerAdapter extends PagerAdapter {
+public class CustomPagerAdapter extends PagerAdapter {
 
     Context mContext;
     LayoutInflater mLayoutInflater;

@@ -1,30 +1,17 @@
-package com.example.adityadesai.cng;
+package com.example.adityadesai.cng.Activities;
 
-import android.app.ActionBar;
-import android.content.ClipData;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.GridLayoutManager;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.AdapterView;
-import android.widget.ImageView;
 import android.widget.ListView;
-import android.widget.TextView;
-import android.widget.Toast;
 
-import com.tjerkw.slideexpandable.library.ActionSlideExpandableListView;
+import com.example.adityadesai.cng.Adapters.ItemDetailAdapter;
+import com.example.adityadesai.cng.Objects.ItemDetail;
+import com.example.adityadesai.cng.R;
 import com.tjerkw.slideexpandable.library.SlideExpandableListAdapter;
 
 import java.util.ArrayList;
-import java.util.List;
-import java.util.Objects;
-
-import static android.R.id.list;
-import static android.os.Build.VERSION_CODES.M;
 
 public class ItemDetailsActivity extends AppCompatActivity {
 
